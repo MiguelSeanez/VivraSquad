@@ -17,8 +17,5 @@
     $asunto = 'VivraSquad page form'; 
 
     mail($para, $asunto, utf8_decode($mensaje), $header); 
-
-    echo 'Mensaje enviado correctamente.'; 
-
-
 ?> 
+<a href="<? echo $HTTP_REFERER; ?>">Volver atras</a>
