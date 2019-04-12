@@ -27,8 +27,9 @@ a:focus {
 }
 
 .tm-section-home { background-image: url(../img/image-01.jpg); }
- .tm-section-leads { background-image: url(../img/v11.jpg);}
-.tm-section-about { background-image: url(../img/v22.jpg);}
+.tm-section-leads { background-image: url(../img/v1.jpg); }
+.tm-section-sinopsis { background-image: url(../img/v111.jpg);}
+.tm-section-about { background-image: url(../img/v22.jpg); }
 .tm-section-services { background-image: url(../img/image-033.jpg); }
 .tm-section-testimonials { background-image: url(../img/image-044.jpg); }
 .tm-section-contact { background-image: url(../img/image-055.jpg); }
@@ -236,7 +237,7 @@ a .fb:hover{
 }
 
 .contacto{
-	color: darkseagreen;
+	color: #3b5998;
 }
 p .descripcion{
 	color: black;
